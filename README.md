@@ -14,4 +14,4 @@ Little tool kit to help you enjoy JumpKing another way. Save and load your posit
 
 ## Many thanks to
 * [Majdev](https://github.com/inc-Majdev) [UI template]
-* 50 peoples on forums
+* 50 kind souls on various forums
