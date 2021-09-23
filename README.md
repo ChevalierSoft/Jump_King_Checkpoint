@@ -15,6 +15,7 @@ Your antivirus might not like it. If you don't trust it you can compile it yours
 
 ## Built With
 * [ImGui v1.83](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+* [CasualLibrary](https://github.com/CasualCoder91/CasualLibrary) - Great library that sythesise read/write and search fucntions needed to modify another executable by using dll injection.
 * [DirectX Software Development Kit](https://www.microsoft.com/en-us/download/details.aspx?id=6812) - This DirectX SDK release contains updates to tools, utilities, samples, documentation, and runtime debug files for x64 and x86 platforms.
 * [Visual Studio](https://visualstudio.microsoft.com/) - Fat IDE you need to compile this code.
 
